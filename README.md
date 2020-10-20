@@ -9,9 +9,9 @@ GitHub UI Clone for study purpose. To carry out this project, the [Rocktseat's](
 - TypeScript
 
 ## TODO
-- [] Use [SWR] as cache invalidation strategy
-- [] Fetch data from [GitHub V4 API](https://docs.github.com/en/graphql), that uses GraphQL instead of REST
-- [] Create new routes with [React Router](https://reactrouter.com/web/guides/quick-start) and implement some more functionalities, like GitHub Feed, complete Repository Page, etc
+- [ ] Use [SWR] as cache invalidation strategy
+- [ ] Fetch data from [GitHub V4 API](https://docs.github.com/en/graphql), that uses GraphQL instead of REST
+- [ ] Create new routes with [React Router](https://reactrouter.com/web/guides/quick-start) and implement some more functionalities, like GitHub Feed, complete Repository Page, etc
 
 ## Starting Dev Enrivonment
 
