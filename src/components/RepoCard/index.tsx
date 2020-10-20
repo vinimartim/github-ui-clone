@@ -13,7 +13,22 @@ declare interface Props {
 }
 
 const RepoCard: React.FC<Props> = (props) => {
-  const languageClass = props.language ? props.language.toLowerCase() : 'other'
+  const language = props.language?.toLowerCase()
+  let languageClass = ''
+
+  switch (language) {
+    case 'javascript':
+    case 'typescript':
+    case 'java':
+    case 'vue':
+    case 'scss':
+    case 'html':
+      languageClass = language
+      break;
+    default:
+      languageClass = 'other'
+      break;
+  }
 
   return (
     <Container>

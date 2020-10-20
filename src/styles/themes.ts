@@ -24,7 +24,11 @@ export const themes = {
     'calendar-scale-4': '#216E3A',
 
     javascript: '#f1e05a',
-    typescript: '#2b7489',
+    typescript: '#2b7487',
+    java: '#b07219',
+    vue: '#2c3e50',
+    scss: '#c6538c',
+    html: '#e34c26',
     'other-language': '#8257e5',
   },
   dark: {
@@ -53,6 +57,10 @@ export const themes = {
 
     javascript: '#f1e05a',
     typescript: '#2b7489',
+    java: '#b07219',
+    vue: '#2c3e50',
+    scss: '#c6538c',
+    html: '#e34c26',
     'other-language': '#8257e5',
   },
 };
