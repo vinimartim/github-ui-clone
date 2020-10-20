@@ -12,7 +12,7 @@ const Repo: React.FC = () => {
           vinimartim
         </Link>
         
-        <span></span>
+        <span>/</span>
 
         <Link className={'reponame'} to={'vinimartim/vendas-gv'}>
           vendas-gv
