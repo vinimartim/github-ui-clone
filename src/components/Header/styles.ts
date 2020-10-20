@@ -5,7 +5,7 @@ export const Container = styled.div`
   display: flex;
   align-items: center;
   background: var(--header);
-  padding: 11px 16px;
+  padding: 16px 32px;
 `;
 
 export const GithubLogo = styled(FaGithub)`
