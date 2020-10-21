@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { ThemeName } from '../../styles/themes';
 
-import { Container, GithubLogo, SearchForm } from './styles';
+import { Container, GithubLogo, SearchForm, Avatar } from './styles';
 
 declare interface Props {
   themeName: ThemeName
@@ -10,6 +10,7 @@ declare interface Props {
 }
 
 const Header: React.FC<Props> = (props) => {
+
   const [search, setSearch] = useState('')
   const navigate = useNavigate()
 
@@ -33,6 +34,8 @@ const Header: React.FC<Props> = (props) => {
           onChange={e => setSearch(e.currentTarget.value)}
         />
       </SearchForm>
+      <Avatar />
+      <span></span>
     </Container>
   )
 }
