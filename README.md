@@ -13,7 +13,7 @@ GitHub UI Clone for study purpose. To carry out this project, the [Rocktseat's](
 - [ ] Fetch data from [GitHub V4 API](https://docs.github.com/en/graphql), that uses GraphQL instead of REST
 - [ ] Create new routes with [React Router](https://reactrouter.com/web/guides/quick-start) and implement some more functionalities, like GitHub Feed, complete Repository Page, etc
 
-## Starting Dev Enrivonment
+## Starting Dev Environment
 
 1. Run `npm install` or `yarn install`
 2. Run `yarn start` and access `http://localhost:3000`
