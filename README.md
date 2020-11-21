@@ -1,6 +1,6 @@
 # GitHub UI Clone
 
-GitHub UI Clone for study purpose. To carry out this project, the [Rocktseat's](https://github.com/rocketseat-content) [video tutorial](https://www.youtube.com/watch?v=iLEbGQXsg3k) and [youtube-clone-github](https://github.com/rocketseat-content/youtube-clone-github) repository were used. 
+GitHub UI Clone for study purpose. To conduct this project, the [Rocktseat's](https://github.com/rocketseat-content) [video tutorial](https://www.youtube.com/watch?v=iLEbGQXsg3k) and [youtube-clone-github](https://github.com/rocketseat-content/youtube-clone-github) repository were used. 
 
 ## Technologies used
 - Fetch API
